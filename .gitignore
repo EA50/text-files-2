@@ -1,0 +1,4 @@
+txt1.txt
+
+#this is a comment
+# *.txt tells git to ignore all files with .txt extension
