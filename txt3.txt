@@ -1,0 +1,7 @@
+This is the third text file.
+
+This file consists of the following:
+
+- a single line containing a sentence;
+- a single line containing words; and
+- a single line containing text
